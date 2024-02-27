@@ -4,7 +4,7 @@ date = "2024-02-27"
 draft = false
 pinned = false
 image = "bild2.jpg"
-description = "\n\nInfokasten\nName: Fabienne Biever\nAlter: 49 Jahre\nBeruf: Theaterpädagogin, Dramaturgin, Regisseurin\n"
+description = "\n\n"
 +++
 
 
